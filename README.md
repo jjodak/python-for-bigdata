@@ -31,4 +31,4 @@
 * `README.md`: 저장소 소개 및 학습 이력.
 
 ---
-Copyright © 2026 JunHyuk Cho. All rights reserved.
+Copyright © 2025 JunHyuk Cho. All rights reserved.
